@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
 7. **[Temperature Converter]**  
    An application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
-8. **[Tic Tac Toe](link-to-project)**  
+8. **[Tic Tac Toe]**  
    A classic Tic Tac Toe game where users can play against each other.
 
 9. **[BMI Calculator]**  
