@@ -11,49 +11,49 @@ I have been working as a web developer for over a year, specializing in technolo
 
 Here are some of the projects I've worked on:
 
-1. **[Age Calculator App](link-to-project)**  
+1. **[Age Calculator App]**  
    A simple app to calculate age based on the user's input date of birth.
 
-2. **[Stop-Watch](link-to-project)**  
+2. **[Stop-Watch]**  
    A fully functional stopwatch that tracks time intervals.
 
-3. **[Blogy-SMR](link-to-project)**  
+3. **[Blogy-SMR]**  
    A blogging platform where users can create and share articles.
 
-4. **[Digital Clock](link-to-project)**  
+4. **[Digital Clock]**  
    A real-time digital clock displaying the current time.
 
-5. **[Leap Year Checker](link-to-project)**  
+5. **[Leap Year Checker]**  
    An app to determine if a year is a leap year.
 
-6. **[Light-Dark Mode Toggle](link-to-project)**  
+6. **[Light-Dark Mode Toggle]**  
    A simple toggle switch to change between light and dark themes.
 
-7. **[Temperature Converter](link-to-project)**  
+7. **[Temperature Converter]**  
    An application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
 8. **[Tic Tac Toe](link-to-project)**  
    A classic Tic Tac Toe game where users can play against each other.
 
-9. **[BMI Calculator](link-to-project)**  
+9. **[BMI Calculator]**  
    A tool to calculate Body Mass Index based on user input.
 
-10. **[Random Password Generator](link-to-project)**  
+10. **[Random Password Generator]**  
     A simple app that generates random passwords based on specified criteria.
 
-11. **[QR Code Generator](link-to-project)**  
+11. **[QR Code Generator]**  
     An application that generates QR codes based on user input.
 
-12. **[YouTube Clone](link-to-project)**  
+12. **[YouTube Clone]**  
     A clone of the YouTube interface showcasing video uploads and playlists.
 
-13. **[Twitter App](link-to-project)**  
+13. **[Twitter App]*  
     A simple Twitter-like application for sharing short posts.
 
-14. **[Image Search Generator](link-to-project)**  
+14. **[Image Search Generator]**  
     An application to search and display images based on user queries.
 
-15. **[Netflix Clone](link-to-project)**  
+15. **[Netflix Clone]**  
     A replica of the Netflix interface with a focus on streaming movies and series.
 
 ## Skills
